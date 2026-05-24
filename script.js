@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-/* insert script here */
-=======
 // This is the source code for script.js.
 
 const container = document.getElementById("agents-container");
@@ -109,4 +106,3 @@ searchInput.addEventListener("input", () => {
 
 /*Fetching Agents from API*/
 fetchAgents();
->>>>>>> origin/vincoy-branch
